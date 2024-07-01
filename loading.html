@@ -1,0 +1,19 @@
+<style>
+  @keyframes spin {
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  .spin {
+    transform-origin: center;
+    animation: spin 0.6s ease-in-out infinite;
+  }
+</style>
+      
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <circle class="spin" cx="400" cy="400" fill="none"
+    r="329" stroke-width="134" stroke="#00c1ab"
+    stroke-dasharray="443 1400"
+    stroke-linecap="round" />
+</svg>

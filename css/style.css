@@ -56,6 +56,7 @@ a {
      -ms-transition: all .3s ease-in-out;
      -o-transition: all .3s ease-in-out;
      transition: all .3s ease-in-out;
+      font-family: "DM Sans", sans-serif;
 }
 
 h1,
@@ -77,26 +78,32 @@ h6 {
 
 h1 {
      font-size: 24px;
+      font-family: "DM Sans", sans-serif;
 }
 
 h2 {
      font-size: 22px;
+      font-family: "DM Sans", sans-serif;
 }
 
 h3 {
      font-size: 18px;
+      font-family: "DM Sans", sans-serif;
 }
 
 h4 {
      font-size: 16px;
+      font-family: "DM Sans", sans-serif;
 }
 
 h5 {
      font-size: 14px;
+      font-family: "DM Sans", sans-serif;
 }
 
 h6 {
      font-size: 13px;
+      font-family: "DM Sans", sans-serif;
 }
 
 *,
